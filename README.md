@@ -13,7 +13,7 @@ A0A140G1S2
 ```
 - Clone repository into your local machine or HPC
 - Download **Model** and **Data** folders from [google drive](https://drive.google.com/drive/folders/1bi0z-Ul7bAslzKo4Xs5GWwKgWmphY9Pp?usp=sharing) and move them into cloned repository
-- Download the reference _Nicotiana Benthamiana_ genome from the [Sol Genomics Network database version 1.0.1](https://solgenomics.net/ftp/genomes/Nicotiana_benthamiana/assemblies/) and into the Data folder.
+- Download the reference _Nicotiana Benthamiana_ genome from the [Sol Genomics Network database version 1.0.1](https://solgenomics.net/ftp/genomes/Nicotiana_benthamiana/assemblies/) into the Data folder.
 - Execute the data retrieval script using:
 `$bash ProteinPull.sh <protein list file>`
 
