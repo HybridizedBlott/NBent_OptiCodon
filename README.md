@@ -36,9 +36,13 @@ $python expressionMerger.py --input <retrived nucleotide fasta file> --quant <lo
 ## Acknowledgments 
 I would like to thank [Sidi _et al_, 2024](https://www.pnas.org/doi/10.1073/pnas.2410003121) for providing access to their model for usage in this project. The codebase is accessible from their [repository](https://github.com/siditom-cs/ReverTra/).  
   
-I would like to thank the JGM lab for providing the proteomic dataset used for the cururation of the protein list, which was apart of the following [study](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14342). The data is accessible through the [PRIDE database](https://www.ebi.ac.uk/pride/archive/projects/PXD042916)
+I would like to thank the JGM lab for providing the proteomic dataset used for the cururation of the protein list, which was apart of the following [study](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14342). The data is accessible through the [PRIDE database](https://www.ebi.ac.uk/pride/archive/projects/PXD042916).
 
-RNA-seq fastq data for sequence quantification was derived from the following [study](https://pubmed.ncbi.nlm.nih.gov/29055088/)
+I would like to thank [Grosse-Holz _et al_ (2018)](https://pubmed.ncbi.nlm.nih.gov/29055088/) for providing accessibility to their RNA-seq fastq data, which was used for sequence quantification.
+
+I would like to thank Plant Form for their collaboration in developing the idea behind this research project. 
+
+Finally, I greatly appreciate the mentorship and support provided by my advisors Ashley Meyers, Dr. Doug Cossar, Dr. Stefen C. Kremer, and Dr. Jennifer Geddes-McAlister. 
 ## References:
 Sidi, T., Bahiri-Elitzur, S., Tuller, T., and Kolodny, R. (2024). Predicting gene sequences with AI to study codon usage patterns. Proceedings of the National Academy of Sciences 122. https://doi.org/10.1073/pnas.2410003121.  
   
