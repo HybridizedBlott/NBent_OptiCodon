@@ -34,9 +34,9 @@ $python expressionMerger.py --input <retrived nucleotide fasta file> --quant <lo
 - For model evaluation run: `$bash mod_eval.sh`
 
 ## Acknowledgments 
-The original code for preprocessing the data, training and evaluating the mBART deep learning architecture was taken from [Sidi _et al_, 2024](https://www.pnas.org/doi/10.1073/pnas.2410003121). The codebase is accessible from their [repository](https://github.com/siditom-cs/ReverTra/).  
+I would like to thank [Sidi _et al_, 2024](https://www.pnas.org/doi/10.1073/pnas.2410003121) for providing access to their model for usage in this project. The codebase is accessible from their [repository](https://github.com/siditom-cs/ReverTra/).  
   
-Curation of the protein list was based on proteomic data from the following [paper](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14342). The data is accessible through the [PRIDE database](https://www.ebi.ac.uk/pride/archive/projects/PXD042916)
+I would like to thank the JGM lab for providing the proteomic dataset used for the cururation of the protein list, which was apart of the following [study](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14342). The data is accessible through the [PRIDE database](https://www.ebi.ac.uk/pride/archive/projects/PXD042916)
 
 RNA-seq fastq data for sequence quantification was derived from the following [study](https://pubmed.ncbi.nlm.nih.gov/29055088/)
 ## References:
