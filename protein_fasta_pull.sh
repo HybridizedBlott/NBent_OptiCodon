@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Your UniProt IDs (comma-separated or from file)
+# Your UniProt IDs (newline-separated)
 UNIPROT_IDS=$1
 
 # Run the mapping job
