@@ -36,7 +36,7 @@ $python expressionMerger.py --input <retrived nucleotide fasta file> --quant <lo
 ## Acknowledgments 
 I would like to thank [Sidi _et al_, 2024](https://www.pnas.org/doi/10.1073/pnas.2410003121) for providing access to their model for usage in this project. The codebase is accessible from their [repository](https://github.com/siditom-cs/ReverTra/).  
   
-I would like to thank the JGM lab for providing the proteomic dataset used for the cururation of the protein list, which was apart of the following [study](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14342). The data is accessible through the [PRIDE database](https://www.ebi.ac.uk/pride/archive/projects/PXD042916).
+I would like to thank the JGM lab for providing the proteomic dataset used for the cururation of the protein list, which was a part of the following [study](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14342). The data is accessible through the [PRIDE database](https://www.ebi.ac.uk/pride/archive/projects/PXD042916).
 
 I would like to thank [Grosse-Holz _et al_ (2018)](https://pubmed.ncbi.nlm.nih.gov/29055088/) for providing accessibility to their RNA-seq fastq data, which was used for sequence quantification.
 
