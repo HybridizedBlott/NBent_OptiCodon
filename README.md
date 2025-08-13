@@ -30,7 +30,7 @@ $python expressionMerger.py --input <retrived nucleotide fasta file> --quant <lo
 
 - For data preprocessing, follow the instructions in the `Model/source/data_preprocessing/README.md` directory
 - For model training run the train.sh script: `$bash train_model.sh`, ensure that configurations are set with the deisred hyperparameters
-  This config files used for this project can be found in the `Model/configs/win_configs/win75` directory.
+  The config files used for this project can be found in the `Model/configs/win_configs/win75` directory.
 - For model evaluation run: `$bash mod_eval.sh`
 
 ## Acknowledgments 
