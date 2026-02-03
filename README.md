@@ -1,4 +1,7 @@
 # **Optimizing _Nicotiana Benthamiana_ DNA Sequences using Deep Learning**
+
+##Prerequsites:
+- Latest version of [Anaconda](https://anaconda.org/)
 ## Instructions: 
 - Create a conda environment using the requirement.txt file:
 ```
